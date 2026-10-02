@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.vercel
+.env*
+!.env.example
+npm-debug.log*
+cookie.txt
+tsconfig.tsbuildinfo
